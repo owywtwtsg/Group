@@ -24,10 +24,10 @@ API_HASH = getenv("API_HASH", "42a60d9c657b106370c79bb0a8ac560c")
 
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "5890579552:AAEbAy_HoYSaR5hBEDxNaNjjCEDPT80b26E")
+BOT_TOKEN = getenv("BOT_TOKEN", "5945924542:AAErNITjU4Neps0inerm5ghZttTReakVc6o")
 
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://tgvcbot:biharsharif@cluster0.keevh.mongodb.net/?retryWrites=true&w=majority&TG_VC_BOT=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thevipboyop:biharsharif@cluster0.gkpb3.mongodb.net/?retryWrites=true&w=majority&Group_music_bot=Cluster0")
 
 
 CLEANMODE_DELETE_MINS = int(
@@ -183,7 +183,7 @@ SET_CMDS = getenv("SET_CMDS", "False")
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @VIPStringBot
-STRING1 = getenv("STRING_SESSION", "BQGE6pYAWO501zI7N7hDNi-He1N44E4A3HQy6lKkuXk0IxrDH8DAGSTYM7pVHqfN-kz83AWri7uwTgbn2B70ZkjcUZFN8T74buEefQ0ym8b0hKraXPuh8Ff-mCeLwN8MSxeJkXWV8O4dXiZtKzvrDlN-frlZss21-hnWqsQc6P2QEqrhVW9nxFMBVhR6DID2rUucfVzCMoE9tG6pHug3mbv_CvPeXorlp2A1I-Ymh2KNunjM_BWFaic8AqZjURBwivteHVUrQjeXms7VBTu4XxXVdv0Ild3Tlp-ZUPK_XDwwAeddA16Rszf6b-T4qnI7_93LqGxk_i7HQFg5sVKfmMQUCbOjogAAAAGm72q7AA")
+STRING1 = getenv("STRING_SESSION", "BQDWZRoAlfp7eqlWwovaRHiU0Y7vJtwFDPzct12UW4PJPFva5v8HHo0U2H0UosKXPnf0ErQhszbL63TKrY-k0hxFZ8q2DAzAFiEDh5KY57B1bGzwq483KBaq8qbzoMuAXLJ-M3n8oB6pO823NQlv3PyiQdgjtoiN2IXKYvRUEWFcDwqjA4YRL3XzEM6yS605ruiPC3OdBqW-dWY5y3C2yAiCkqf_3scR9wH_urElxADhh2gdBvAfDce0sjuxQvFnQhnbNuhsYkJ321TtcSNui1a8y5E6sjBc3_MCTVFfVwD-L6auXBaU7gPyT8jV06nMFBn4z0ec-Z67Y93NtAQB7LXDCEONSgAAAAE3h0oDAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
